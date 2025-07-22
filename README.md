@@ -1,6 +1,7 @@
 # README - Instacart Grocery Basket Analysis
 Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from [www.instacart.com/datasets/grocery-shopping-2017](www.instacart.com/datasets/grocery-shopping-2017) via Kaggle
-[Project Brief](01 Proj Management/A4_Data_Immersion_Project_Brief.pdf)
+[Project_Brief](https://github.com/user-attachments/files/21364361/A4_Data_Immersion_Project_Brief.pdf)
+
 
 ## Context
 Instacart's assumptions are that their customers do not differ in different regions, they can market to all customers equally with same outcome. Data analysis should inform these assumptions.
