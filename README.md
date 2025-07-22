@@ -1,4 +1,6 @@
 # README - Instacart Grocery Basket Analysis
+Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from [www.instacart.com/datasets/grocery-shopping-2017](www.instacart.com/datasets/grocery-shopping-2017) via Kaggle
+[Project Brief](01 Proj Management/A4_Data_Immersion_Project_Brief.pdf)
 
 ## Context
 Instacart's assumptions are that their customers do not differ in different regions, they can market to all customers equally with same outcome. Data analysis should inform these assumptions.
@@ -12,6 +14,7 @@ Instacart's assumptions are that their customers do not differ in different regi
 - Final data explorations, analysis, graph creating and exporting for presentation
 
   ## Key Questions to be answered
+  [Final Report](05 Sent to Client/A4_final_report_RGN.xlsx)
 
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 - They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
