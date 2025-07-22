@@ -14,7 +14,8 @@ Instacart's assumptions are that their customers do not differ in different regi
 - Final data explorations, analysis, graph creating and exporting for presentation
 
   ## Key Questions to be answered
-  [Final Report](05 Sent to Client/A4_final_report_RGN.xlsx)
+  [Final Report](https://github.com/user-attachments/files/21364273/A4_final_report_RGN.xlsx)
+
 
 - The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 - They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
